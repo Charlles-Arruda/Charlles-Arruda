@@ -1,8 +1,8 @@
-### Hello!! I'm Charlles Arruda
+### Olá!! Sou o Charlles Arruda
 
-- 🔭 I'm a graduate student in Information Systems
-- 👨‍💻 I’m currently learning Flutter e Dart
-- 🔥 Looking to learn subjects that can expand/improve my knowledge
+- 🔭 Sou estudante de pós-graduação em Sistemas de Informação.
+- 👨‍💻 Atualmente estou aprendendo Flutter e Dart.
+- 🔥 Procurando aprender assuntos que possam expandir/melhorar meus conhecimentos.
 
 
 
